@@ -1,3 +1,2 @@
 
-- 👋 Hi, I’m **Cubik**
-- 🌱 I’m currently learning: **Kotlin, Js**
+👋 Hi, I’m **Cubik**
