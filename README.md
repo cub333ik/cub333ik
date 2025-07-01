@@ -1,2 +1,2 @@
 
-👋 Hi, I’m **Cubik**
+Hi, I’m cubik
